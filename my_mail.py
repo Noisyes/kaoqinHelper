@@ -55,4 +55,4 @@ def sendmail(title, body, subject=None, test=True):
 
 
 if __name__ == "__main__":
-    mysendmail()
+    sendmail()
